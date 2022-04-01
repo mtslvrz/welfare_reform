@@ -59,7 +59,7 @@ SANC.1: Initial sanction for violation
 
 SANC.DATE: Year the sanction policy was implemented
 
-WORK.REC.97: WOrk requirement as of 1997
+WORK.REC.97: Work requirement as of 1997
 
 BEN.97: Typical monthly TANF benefit in 1997
 
