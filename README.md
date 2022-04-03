@@ -73,3 +73,21 @@ LIM.CHANGE.1QUINT: Month 13 income limit in quintiles, states without limits are
 
 BEN.CHANGE: Amount of the change in benefit from AFDC to TANF
 
+JOBS.WAIVER: State recieved waiver for JOBS participation exemption
+
+SANCTIONS.WAIVER: State recieved waiver for sanctions
+
+TERMINATION WAIVER: State recieved waiver for termination time limits
+
+WORK.REQ: State reform included work requirement
+
+GDP.K: Stat Gross Domestic Product in thousands
+
+BELOW.POV.RATE: People living below poverty line / population
+
+R.SCORE: 0-10 reform score, one point for each of HR.100, WAIT.30, WRK.HIST, MO.24.RED, T.60, FAM.CAP, JOBS.WAIVER, SANCTIONS.WAIVER, TERMINATION.WAIVER, WORK.REQ
+
+W.SCORE: 0-5 score for matching Wisconsin's reforms: FAM.CAP, JOBS.WAIVER, SANCTIONS.WAIVER, TERMINATION.WAIVER, WORK.REQ
+
+MED.INC.K: Median income in htousands
+
