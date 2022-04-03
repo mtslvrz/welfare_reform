@@ -49,7 +49,7 @@ T.60: Benefits terminate before 60 months
 
 NO.T: No termination
 
-T.LIM.YR: Year that the time limit was impletmented
+T.LIM.YR: Year that the time limit was implemented
 
 WORK.EXEMPT: Age in months of a child to which a parent is exempt from work activities 
 
@@ -89,5 +89,5 @@ R.SCORE: 0-10 reform score, one point for each of HR.100, WAIT.30, WRK.HIST, MO.
 
 W.SCORE: 0-5 score for matching Wisconsin's reforms: FAM.CAP, JOBS.WAIVER, SANCTIONS.WAIVER, TERMINATION.WAIVER, WORK.REQ
 
-MED.INC.K: Median income in htousands
+MED.INC.K: Median income in thousands
 
