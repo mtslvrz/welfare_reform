@@ -9,7 +9,7 @@ CASES: AFDC/TANF case count
 
 RECIPIENTS: Amount of AFDC/TANF recipients
 
-CHILDREN: NUmber of children recieving AFDC/TANF benefits
+CHILDREN: Number of children recieving AFDC/TANF benefits
 
 ADULTS: Number of adults recieving benefits
 
